@@ -1,0 +1,27 @@
+/* colors */
+.white {
+  color: white;
+}
+.green {
+  color: #1ed760;
+}
+.black {
+  color: black;
+}
+.purple {
+  color: #7960ee;
+}
+
+/* background-color */
+.bg-white {
+  background-color: white;
+}
+.bg-green {
+  background-color: #1ed760;
+}
+.bg-purple {
+  background-color: #7960ee;
+}
+.bg-light-black {
+  background-color: #2d2b2f;
+}
