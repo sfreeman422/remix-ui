@@ -10,6 +10,7 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <App />,
+    errorElement: <div>Oops! Not found.</div>,
   },
   {
     path: "/how-it-works",
